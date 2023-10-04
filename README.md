@@ -3,4 +3,4 @@
   
  ### For implementation check these screenshots 
   
- [IMPLEMENTATION](https://github.com/prabh1303/greatkart-django/tree/main/implementation-screenshots)
+ [IMPLEMENTATION](https://github.com/ganeshmittal223/ecommerce/tree/master/implementation-screenshots)
